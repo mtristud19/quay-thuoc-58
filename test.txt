@@ -1,1 +1,2 @@
-Test tạo file và đồng bộ!!!
+1. Test tạo file và đồng bộ!!!
+2. Chỉnh sửa file test!!!
